@@ -19,6 +19,15 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 - C# wiedererlernen
 ## Tagesplanungen
 
+### Planung 14.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Lernperiode erstellt
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
