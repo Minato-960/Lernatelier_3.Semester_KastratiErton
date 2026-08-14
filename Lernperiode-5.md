@@ -23,8 +23,8 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Lernperiode erstellt
+- [ ] Das Konzept meines Java Projekts wieder anschauen und meinen Standort bestimmen
 - [ ] ...
-- [X] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
