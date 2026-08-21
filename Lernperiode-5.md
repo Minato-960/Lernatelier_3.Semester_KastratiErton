@@ -22,20 +22,20 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Lernperiode erstellt
-- [ ] Das Konzept meines Java Projekts wieder anschauen und meinen Standort bestimmen
+- [x] Lernperiode erstellt
+- [x] Das Konzept meines Java Projekts wieder anschauen und meinen Standort bestimmen
 - [ ] ...
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich die Lernperiode erstellt und meinen stand im Java Projekt wieder angeschaut.)
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
+- [ ] C++ Einführung beenden
+- [ ] Mich über Partition verkleinerung informieren.
 - [ ] ...
-- [X] Viertes AP
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich mich bei Cisco Networking Academy angemeldet und angefangen das C++ zu bearbeiten.)
 
 
 ### Planung 28.08.2026
