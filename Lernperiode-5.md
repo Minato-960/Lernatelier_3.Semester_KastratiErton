@@ -3,7 +3,7 @@
 - Zeitraum: 14.08.2026 bis 25.09.2026
 
 ## Grob-Planung
-Ich will Java und C# wieder erlernen und ausbessern. Meinen Laptop Dual-Booten und Linux erlernen.
+Ich will Java und C# wieder erlernen und ausbessern. Meinen Laptop Dual-Booten und Linux erlernen. Den C++ Essential Kurs bearbeiten und C++ lernen.
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Ich stehe gerade nirgendwo mit den Noten doch welche wichtig sein werden sind eigentlich alle. 320 wird ein sehr wichtiges Modul sein.
@@ -52,7 +52,16 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 
 - [ ] C++ Modul 1 beenden.
 - [ ] C++ Modul 2 Aufgabe 2.0 und 2.1 bearbeiten.
-- [ ] Hyprland Dotfiles verstehen.
+- [ ] C++ Modul 2 Aufgabe 2.2 abschliessen
+
+(Heute habe Ich...)
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 (Heute habe Ich...)
 
