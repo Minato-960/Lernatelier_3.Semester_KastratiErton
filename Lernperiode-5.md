@@ -61,17 +61,17 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 
 - [ ] C++ Modultest 1 bestehen.
 - [ ] Mit Modul 2 anfangen.
-- [ ] Bei der Session mitmachen.
+- [X] Bei der Session mitmachen.
 - [ ] ...
 
-(Heute habe Ich...)
+(Heute habe Ich den Moodle Test gemacht und nicht bestanden. Andereseits habe ich in der Session mitgemacht und verstehe somit OOP besser und bin für das OOP Modul 320 besser vorbereitet.)
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Ein kleines Programmierprojekt starten und Ideen sammeln.
+- [ ] Den Test wiederholen und bestehen.
+- [ ] Im Java Projekt weitermachen.
 
 (Heute habe Ich...)
 
