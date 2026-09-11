@@ -54,9 +54,19 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 - [ ] C++ Modul 2 Aufgabe 2.0 und 2.1 bearbeiten.
 - [ ] C++ Modul 2 Aufgabe 2.2 abschliessen
 
-(Heute habe Ich...)
+(Heute habe Ich bei dem C++ Modul alle Aufgaben im Teil 1 erledigt ausser dem Test(1.7))
 
 ### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] C++ Modultest 1 bestehen.
+- [ ] Mit Modul 2 anfangen.
+- [ ] Bei der Session mitmachen.
+- [ ] ...
+
+(Heute habe Ich...)
+
+### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] ...
