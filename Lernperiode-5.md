@@ -69,11 +69,18 @@ Ich will am Minecraft Casino Mod weiterarbeiten
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ein kleines Programmierprojekt starten und Ideen sammeln.
-- [ ] Den Test wiederholen und bestehen.
+- [X] Ein kleines Programmierprojekt starten und Ideen sammeln.
+- [X] Den Test wiederholen und bestehen.
 - [ ] Im Java Projekt weitermachen.
 
-(Heute habe Ich...)
+(Heute habe Ich, den Modul Test wiederholt und bestanden. Ich habe ideen für das Projekt gesammelt es sollte ein Desktop "Alarm" werden, er sollte einfach bei bestimmten Zeiten die ich definiere mir eine nachricht senden bei der halt ALARM steht und dann sagt was ich vorhatte. Ähnlich wie ein Kalender einfach das die Einträge nicht unbedingt einen Text brauchen sondern nur die Zeit.)
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Cisco C++ Modul weiterarbeiten
+- [X] Java Projekt weiterarbeiten
+- [X] Java Youtube Playlist weiterschauen
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+(In dieser Lernperiode habe ich, Cisco Netacad C++ angefangen und bis Modul 2 geschafft. Ich habe meinen Laptop neu mit Windows und Linux CachyOS aufgesetzt und es so eingerichtet dass ich dualbooten kann. Ich habe beim Java Projekt weitergamcht von wo ich aufgehört habe und ein weiteres kleines Projekt angefangen. Mir ist es nicht sehr gelungen mich an meine Arbeitspakete zu halten und sie auch alle zu bearbeiten.)
